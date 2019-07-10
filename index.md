@@ -1,3 +1,6 @@
 # Socials:
  - [osu!](https://osu.ppy.sh/users/8033996)
  - [Twitter](https://twitter.com/yilrus)
+ - Discord: yilrus#9658
+ - [MyAnimeList](https://myanimelist.net/profile/yilrus)
+ 
