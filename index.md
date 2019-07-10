@@ -1,3 +1,5 @@
+# About Me
+I'm a 19 (unless I don't update this) year old living in Melbourne, Australia. I'm studying Computer Science. I like playing Smash and osu!. Linux is life.
 # Socials:
  - [osu!](https://osu.ppy.sh/users/8033996)
  - [Twitter](https://twitter.com/yilrus)
